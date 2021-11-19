@@ -1680,7 +1680,7 @@ break
         const none = fs.readFileSync('./mp3/KRIS.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
-       if (budy.startsWith(`PEDIMOS`)) {
+       if (budy.startsWith(`Adiós`)) {
         const none = fs.readFileSync('./mp3/KRIS.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
@@ -1692,11 +1692,11 @@ break
         const none = fs.readFileSync('./mp3/Tamare.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
-       if (budy.startsWith(`PEDIMOS`)) {
+       if (budy.startsWith(`Vaquero`)) {
         const none = fs.readFileSync('./mp3/Tamare.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
-       if (budy.startsWith(`tamare`)) {
+       if (budy.startsWith(`Adiós`)) {
         const none = fs.readFileSync('./mp3/Tamare.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   } 
@@ -1708,7 +1708,7 @@ break
         const none = fs.readFileSync('./mp3/Bubaclan.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
-	if (budy.startsWith(`bubaclan`)) {
+	if (budy.startsWith(`Soldado,`)) {
         const none = fs.readFileSync('./mp3/Bubaclan.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
