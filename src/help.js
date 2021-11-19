@@ -1,17 +1,6 @@
 const help = (prefix) => {
 	return `
 
-⌜ _*ShanBot by shanduy*_ ⌟  
-
-◉ *INFORMACION*
-   ○ Comando: ⌜ ${prefix} ⌟
-   ○ Creador: shanduy™ 
-   ○ Como instalar el bot: https://www.youtube.com/watch?v=2LQSzEbpJ-M
-   ○ Instagram: https://www.instagram.com/thepavos
-
-◉ *COMUNICADO*
-La función *kick ya esta en funcionamiento
-
 ◉ *PARA USAR EL BOT*
 Registrate con el comando ${prefix}daftar y tu nombre
 
@@ -37,10 +26,6 @@ Conoce la versión de tu bot
 ○ ${prefix}welmenu
 Comando de bienvenida solo grupos
 
-◉ *RESUELVE TUS DUDAS*
-  ║
-  ╠ ○ ${prefix}creador
-  ╚ Dudas o problemas aqui
 
 ◉ *CREAR STICKERS*
   ║
@@ -106,7 +91,7 @@ Para activar los NSFW coloque el siguiente comando ${prefix}nsfw 1 y para desact
 No te olvides de seguirme en instagram flaco ;)
 
 
-_*by shanduy*_
+_*by BUBABOT*_
 
 
 ⌜ *ごきげんよう :)* ⌟ 
