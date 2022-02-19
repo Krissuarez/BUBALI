@@ -42,11 +42,26 @@ Un chino
 No funciona
 Boliviano
 Enano
-
+Hola
+Todo bien
+Buenos dias 
+Clan buba
+Escanor
+Jajaja
+Jejeje
+Buenas noches
+buenas tardes
+Bot gay
+Gracias
+gracias y tu?
+ganso
+rollo
+fua
+Todo bien
 
 _*Ojito escribe tal y como esta en el mensaje*_
 
-ву ѕнαη∂υу`
+ву Kris`
 
 }
 
